@@ -5,7 +5,7 @@
 * 🌍  I'm based in Pune, Maharashtra, India.
 * 🖥️  See my portfolio at [website](http://iamitpatil.github.io)
 * ✉️  You can contact me at [dev.amit.patil@gmail.com](mailto:dev.amit.patil@gmail.com)
-* 🧠  I'm learning LLMs training and tuning, react and its coding styles to organise large projects.
+* 🧠  I'm learning **LLMs training and tuning**, **reactjs**.
 * 🤝  I'm open to collaborating on anything exciting in AI/ML space
 
 ### Skills
