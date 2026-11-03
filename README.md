@@ -3,7 +3,6 @@
 
 * 🙋🏻‍♂️  Hi, I am Amit Patil.
 * 🌍  I'm Backend engineer based in Pune, Maharashtra, India.
-* 🖥️  See my portfolio at [website](http://iamitpatil.github.io)
 * ✉️  You can contact me at [dev.amit.patil@gmail.com](mailto:dev.amit.patil@gmail.com)
 * 🤝  I'm open to collaborating on anything exciting in AI/ML space
 
